@@ -7,7 +7,11 @@ body {
     border-radius: 10px;
     height: 400px;
 }
-
+.image2{
+    border: 5px solid green;
+    border-radius: 10px;
+    height: 400px;
+}
 .link-button {
     text-decoration: none;
     color: black;
